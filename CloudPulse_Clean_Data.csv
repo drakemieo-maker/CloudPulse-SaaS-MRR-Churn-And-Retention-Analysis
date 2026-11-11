@@ -1,0 +1,13 @@
+Sub_ID,Account_ID,Plan_Tier,Billing_Cycle,Monthly_Fee_USD,Tenure_Months,Support_Tickets_Opened,Avg_Ticket_Resolution_Hours,Subscription_Status,Churn_Reason,Company_Name,Industry,Company_Size,Account_Manager
+SUB101,ACC01,Enterprise,Annual,800,18,2,4,Active,None,"StripeFlow Logistics",Logistics,Enterprise,"Sarah Jenkins"
+SUB102,ACC02,Enterprise,Monthly,800,3,9,48,Churned,Poor_Support_Response,"FinEdge Microfinance",Fintech,Enterprise,"David Okafor"
+SUB103,ACC03,Basic,Monthly,50,2,1,12,Churned,Price_Too_High,"PixelCraft Agency",Marketing,Startup,"Elena Rostova"
+SUB104,ACC04,Enterprise,Monthly,800,4,11,56,Churned,Poor_Support_Response,"MedCore Hospitals",Healthcare,Enterprise,"David Okafor"
+SUB105,ACC05,Pro,Annual,200,14,3,6,Active,None,"SwiftCart Retail",E-Commerce,Mid-Market,"Sarah Jenkins"
+SUB106,ACC06,Basic,Monthly,50,1,4,36,Churned,Bugs_And_Downtime,"NextGen EdTech",Education,Startup,"Elena Rostova"
+SUB107,ACC07,Pro,Monthly,200,5,8,42,Churned,Poor_Support_Response,"AgroChain Exports",Agriculture,Mid-Market,"David Okafor"
+SUB108,ACC08,Pro,Annual,200,12,1,5,Active,None,"UrbanStay Real Estate","Real Estate",Mid-Market,"Sarah Jenkins"
+SUB109,ACC09,Basic,Annual,50,12,0,0,Active,None,"BrightCode Studios",Software,Startup,"Elena Rostova"
+SUB110,ACC10,Enterprise,Monthly,800,2,14,62,Churned,Bugs_And_Downtime,"GlobalFreight Ltd",Logistics,Enterprise,"David Okafor"
+SUB111,ACC11,Pro,Annual,200,16,2,8,Active,None,"Veloce Auto Group",Automotive,Mid-Market,"Sarah Jenkins"
+SUB112,ACC12,Basic,Monthly,50,6,1,10,Active,None,"Zenith Legal Partners",Legal,Startup,"Elena Rostova"
